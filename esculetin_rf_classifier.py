@@ -11,7 +11,7 @@ from scipy.stats import randint
 import os
 
 # Load dataset
-file_path = os.path.join("data", "ESC_META_EDIT.csv")
+file_path = os.path.join("data", "Esculetin.csv")
 df = pd.read_csv(file_path)
 
 # Encode categorical variable
