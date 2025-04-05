@@ -6,7 +6,7 @@ This repository contains code and results for training a Random Forest classifie
 
 - `esculetin_rf_classifier.py`: Main script for model training, evaluation, and visualization
 - `code/requirements.txt`: Dependencies
-- `data/ESC_META_EDIT.csv`: The Esculetin Dataset
+- `data/Esculetin.csv`: The Esculetin Dataset
 - `output/`: Saved PNG figures
 
 ## Setup
