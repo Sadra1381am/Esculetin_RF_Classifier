@@ -1,0 +1,420 @@
+﻿Author,Year,Cancer Type,Cell Line,Control Group,CoumarinType,Time,TimeUnit,DoseCoumarin,DoseUnit,IC50,Viability,SD_Viability,N_V,DoseControl,ViabilityControl,SD_control,N_C
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,24,hours,500,μM,NA,69.8,6.13,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,24,hours,500,μM,NA,56.07,11.27,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,24,hours,500,μM,NA,43.81,9.55,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,48,hours,500,μM,NA,42.1,10.65,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,48,hours,500,μM,NA,41.33,9.83,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,72,hours,500,μM,NA,34.9,5.33,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,72,hours,500,μM,NA,20.23,10.69,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,72,hours,500,μM,NA,18.05,7.44,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,48,hours,500,μM,NA,17.52,6.9,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,24,hours,300,μM,NA,72.2,5.6,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,24,hours,300,μM,NA,59.83,7.8,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,24,hours,300,μM,NA,48.58,6.91,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,48,hours,300,μM,NA,43.69,8.26,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,48,hours,300,μM,NA,42.49,10.11,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,72,hours,300,μM,NA,38.63,4.27,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,72,hours,300,μM,NA,26.02,3.98,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,72,hours,300,μM,NA,25.43,6.07,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,48,hours,300,μM,NA,22.04,7.43,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,24,hours,200,μM,NA,77.8,2.66,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,24,hours,200,μM,NA,68.21,4.04,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,24,hours,200,μM,NA,57.88,10.08,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,48,hours,200,μM,NA,45.83,5.59,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,48,hours,200,μM,NA,45.09,12.42,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,72,hours,200,μM,NA,42.1,4.79,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,48,hours,200,μM,NA,41.15,3.72,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,72,hours,200,μM,NA,32.92,4.78,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,72,hours,200,μM,NA,28.03,5.79,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,24,hours,100,μM,NA,80.2,4.26,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,48,hours,100,μM,NA,74.87,8.49,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,24,hours,100,μM,NA,74.34,8.23,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,24,hours,100,μM,NA,68.5,9.82,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,48,hours,100,μM,NA,55.49,10.98,3,0,100,1,3
+Arora et al.,2016,Pancreatic,MIA PaCa-2,MIA PaCa-2,Esculetin,72,hours,100,μM,NA,49.91,2.39,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,48,hours,100,μM,NA,46.36,5.59,3,0,100,1,3
+Arora et al.,2016,Pancreatic,PANC-1,PANC-1,Esculetin,72,hours,100,μM,NA,42.2,9.25,3,0,100,1,3
+Arora et al.,2016,Pancreatic,AsPc-1,AsPc-1,Esculetin,72,hours,100,μM,NA,41.56,6.93,3,0,100,1,3
+Chang et al.,2015,Breast,MDA-MB-231,MDA-MB-231,Esculetin,24,hours,20,μM,NA,91.91,3.15,6,0,99.8,4.2,6
+Chang et al.,2015,Breast,MCF-7,MCF-7,Esculetin,24,hours,20,μM,NA,85.09,4.12,6,0,99.83,3.61,6
+Chang et al.,2015,Breast,ZR-75-1,ZR-75-1,Esculetin,24,hours,20,μM,NA,84.63,3.05,6,0,99.81,4.05,6
+Cho et al.,2015,Oral,HSC4,HSC4,Esculetin,24,hours,112,μM,NA,54.39,9.06,3,0,100,1,3
+Cho et al.,2015,Oral,HN22,HN22,Esculetin,24,hours,112,μM,NA,50.07,8.2,3,0,100,1,3
+Cho et al.,2015,Oral,HSC4,HSC4,Esculetin,48,hours,112,μM,NA,31.08,9.93,3,0,100,1,3
+Cho et al.,2015,Oral,HN22,HN22,Esculetin,48,hours,112,μM,NA,25.04,9.06,3,0,100,1,3
+Cho et al.,2015,Oral,HSC4,HSC4,Esculetin,24,hours,84,μM,NA,59.57,9.49,3,0,100,1,3
+Cho et al.,2015,Oral,HN22,HN22,Esculetin,24,hours,84,μM,NA,53.09,9.5,3,0,100,1,3
+Cho et al.,2015,Oral,HSC4,HSC4,Esculetin,48,hours,84,μM,NA,40.58,7.77,3,0,100,1,3
+Cho et al.,2015,Oral,HN22,HN22,Esculetin,48,hours,84,μM,NA,40.14,9.93,3,0,100,1,3
+Cho et al.,2015,Oral,HSC4,HSC4,Esculetin,24,hours,56,μM,NA,66.91,6.9,3,0,100,1,3
+Cho et al.,2015,Oral,HN22,HN22,Esculetin,48,hours,56,μM,NA,53.09,9.5,3,0,100,1,3
+Cho et al.,2015,Oral,HN22,HN22,Esculetin,24,hours,56,μM,NA,50.5,7.77,3,0,100,1,3
+Cho et al.,2015,Oral,HSC4,HSC4,Esculetin,48,hours,56,μM,NA,48.35,8.63,3,0,100,1,3
+Cho et al.,2015,Oral,HN22,HN22,Esculetin,24,hours,28,μM,NA,84.17,9.07,3,0,100,1,3
+Cho et al.,2015,Oral,HSC4,HSC4,Esculetin,24,hours,28,μM,NA,79.86,9.06,3,0,100,1,3
+Cho et al.,2015,Oral,HN22,HN22,Esculetin,48,hours,28,μM,NA,65.18,9.06,3,0,100,1,3
+Cho et al.,2015,Oral,HSC4,HSC4,Esculetin,48,hours,28,μM,NA,59.57,8.2,3,0,100,1,3
+Cho et al.,2015,Oral,HSC4,HSC4,Esculetin,24,hours,14,μM,NA,94.53,0,3,0,100,1,3
+Cho et al.,2015,Oral,HN22,HN22,Esculetin,24,hours,14,μM,NA,93.67,0,3,0,100,1,3
+Cho et al.,2015,Oral,HN22,HN22,Esculetin,48,hours,14,μM,NA,78.13,8.63,3,0,100,1,3
+Cho et al.,2015,Oral,HSC4,HSC4,Esculetin,48,hours,14,μM,NA,74.68,9.92,3,0,100,1,3
+Choi et al.,2019,Colorectal,LoVo,LoVo,Esculetin,24,hours,600,μM,NA,56.13,4.24,3,0,100,1,3
+Choi et al.,2019,Colorectal,LoVo,LoVo,Esculetin,48,hours,600,μM,NA,32.94,3.32,3,0,100,1,3
+Choi et al.,2019,Colorectal,LoVo,LoVo,Esculetin,72,hours,600,μM,NA,11.41,2.39,3,0,100,1,3
+Choi et al.,2019,Colorectal,LoVo,LoVo,Esculetin,24,hours,400,μM,NA,63.13,4.23,3,0,100,1,3
+Choi et al.,2019,Colorectal,LoVo,LoVo,Esculetin,48,hours,400,μM,NA,49.69,1.29,3,0,100,1,3
+Choi et al.,2019,Colorectal,LoVo,LoVo,Esculetin,72,hours,400,μM,NA,13.44,4.04,3,0,100,1,3
+Choi et al.,2019,Colorectal,LoVo,LoVo,Esculetin,24,hours,200,μM,NA,72.15,3.68,3,0,100,1,3
+Choi et al.,2019,Colorectal,LoVo,LoVo,Esculetin,48,hours,200,μM,NA,56.87,3.13,3,0,100,1,3
+Choi et al.,2019,Colorectal,LoVo,LoVo,Esculetin,72,hours,200,μM,NA,16.93,7.92,3,0,100,1,3
+Duan et al.,2020,Renal,SN12-PM6,SN12-PM6,Esculetin,24,hours,1123,μM,NA,55.56,3.86,3,0,100,1,3
+Duan et al.,2020,Renal,SN12-PM6,SN12-PM6,Esculetin,48,hours,1123,μM,NA,45.14,0.78,3,0,100,1,3
+Duan et al.,2020,Renal,786-O,786-O,Esculetin,24,hours,1123,μM,NA,42.06,1.93,3,0,100,1,3
+Duan et al.,2020,Renal,786-O,786-O,Esculetin,48,hours,1123,μM,NA,26.24,1.54,3,0,100,1,3
+Duan et al.,2020,Renal,SN12-PM6,SN12-PM6,Esculetin,24,hours,561,μM,NA,74.08,2.7,3,0,100,1,3
+Duan et al.,2020,Renal,786-O,786-O,Esculetin,24,hours,561,μM,NA,57.88,1.93,3,0,100,1,3
+Duan et al.,2020,Renal,SN12-PM6,SN12-PM6,Esculetin,48,hours,561,μM,NA,57.49,3.47,3,0,100,1,3
+Duan et al.,2020,Renal,786-O,786-O,Esculetin,48,hours,561,μM,NA,30.87,0.77,3,0,100,1,3
+Duan et al.,2020,Renal,SN12-PM6,SN12-PM6,Esculetin,24,hours,281,μM,NA,84.12,3.85,3,0,100,1,3
+Duan et al.,2020,Renal,SN12-PM6,SN12-PM6,Esculetin,48,hours,281,μM,NA,66.75,3.86,3,0,100,1,3
+Duan et al.,2020,Renal,786-O,786-O,Esculetin,24,hours,281,μM,NA,63.28,2.31,3,0,100,1,3
+Duan et al.,2020,Renal,786-O,786-O,Esculetin,48,hours,281,μM,NA,51.7,2.32,3,0,100,1,3
+Duan et al.,2020,Renal,786-O,786-O,Esculetin,24,hours,140,μM,NA,98.78,5.79,3,0,100,1,3
+Duan et al.,2020,Renal,SN12-PM6,SN12-PM6,Esculetin,24,hours,140,μM,NA,94.92,2.7,3,0,100,1,3
+Duan et al.,2020,Renal,SN12-PM6,SN12-PM6,Esculetin,48,hours,140,μM,NA,79.49,1.92,3,0,100,1,3
+Duan et al.,2020,Renal,786-O,786-O,Esculetin,48,hours,140,μM,NA,70.61,2.7,3,0,100,1,3
+Duan et al.,2020,Renal,786-O,786-O,Esculetin,24,hours,70,μM,NA,100,5.79,3,0,100,1,3
+Duan et al.,2020,Renal,SN12-PM6,SN12-PM6,Esculetin,24,hours,70,μM,NA,93.38,3.47,3,0,100,1,3
+Duan et al.,2020,Renal,SN12-PM6,SN12-PM6,Esculetin,48,hours,70,μM,NA,88.36,1.93,3,0,100,1,3
+Duan et al.,2020,Renal,786-O,786-O,Esculetin,48,hours,70,μM,NA,80.26,1.54,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,500,μM,NA,63.01,3.01,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,500,μM,NA,44.69,3.26,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,500,μM,NA,18.91,7.67,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,400,μM,NA,68.39,2.58,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,400,μM,NA,44.9,3.47,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,400,μM,NA,18.16,7.49,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,300,μM,NA,74.84,2.37,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,300,μM,NA,51.43,3.27,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,300,μM,NA,25.09,6.55,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,200,μM,NA,73.76,2.36,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,200,μM,NA,64.49,2.65,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,200,μM,NA,38.76,5.24,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,100,μM,NA,78.92,2.15,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,100,μM,NA,64.69,3.26,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,100,μM,NA,59.36,3.93,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,50,μM,NA,84.52,1.51,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,50,μM,NA,76.94,2.45,3,0,100,1,3
+Fan et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,50,μM,NA,72.66,2.62,3,0,100,1,3
+Jan et al.,2021,Prostate,PC-3,PC-3,Esculetin,24,hours,20,μM,NA,91.14,1.13,3,0,100,0.01,3
+Jeon et al.,2015,Skin,G361,G361,Esculetin,24,hours,449,μM,NA,43.18,3.69,3,0,99.39,5.2,3
+Jeon et al.,2015,Skin,G361,G361,Esculetin,48,hours,449,μM,NA,34.72,1.52,3,0,99.39,3.47,3
+Jeon et al.,2015,Skin,G361,G361,Esculetin,48,hours,241,μM,240.6,50,1,3,0,100,0,3
+Jeon et al.,2015,Skin,G361,G361,Esculetin,24,hours,225,μM,NA,61.84,2.83,3,0,99.39,5.2,3
+Jeon et al.,2015,Skin,G361,G361,Esculetin,48,hours,225,μM,NA,57.07,2.6,3,0,99.39,3.47,3
+Jeon et al.,2015,Skin,G361,G361,Esculetin,24,hours,112,μM,NA,74,1.73,3,0,99.39,5.2,3
+Jeon et al.,2015,Skin,G361,G361,Esculetin,48,hours,112,μM,NA,64.67,3.03,3,0,99.39,3.47,3
+Jeon et al.,2015,Skin,G361,G361,Esculetin,48,hours,56,μM,NA,93.96,3.04,3,0,99.39,3.47,3
+Jeon et al.,2015,Skin,G361 ,G361 ,Esculetin,24,hours,56,μM,NA,92.88,1.95,3,0,99.39,5.2,3
+Jeon et al.,2016,Oral,HSC2,HSC2,Esculetin,24,hours,56,μM,NA,70.31,7.03,3,0,100.31,4.22,3
+Jeon et al.,2016,Oral,HN22,HN22,Esculetin,24,hours,56,μM,NA,57.66,1.4,3,0,99.84,1.41,3
+Jeon et al.,2016,Oral,HN22,HN22,Esculetin,48,hours,56,μM,NA,50.16,0.47,3,0,100.31,0.94,3
+Jeon et al.,2016,Oral,HSC2,HSC2,Esculetin,48,hours,56,μM,NA,49.22,0.94,3,0,100.78,2.81,3
+Jeon et al.,2016,Oral,HN22,HN22,Esculetin,24,hours,28,μM,NA,88.59,1.41,3,0,99.84,1.41,3
+Jeon et al.,2016,Oral,HSC2,HSC2,Esculetin,24,hours,28,μM,NA,81.56,7.5,3,0,100.31,4.22,3
+Jeon et al.,2016,Oral,HN22,HN22,Esculetin,48,hours,28,μM,NA,73.13,0.46,3,0,100.31,0.94,3
+Jeon et al.,2016,Oral,HSC2,HSC2,Esculetin,48,hours,28,μM,NA,59.06,1.41,3,0,100.78,2.81,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,24,hours,104,μM,104.3,50,1,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,24,hours,100,μM,NA,52.42,12.37,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,48,hours,100,μM,NA,24.53,2.93,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,24,hours,30,μM,NA,81.98,21.39,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,48,hours,30,μM,NA,71.07,3.77,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,48,hours,10,μM,NA,92.25,6.29,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,24,hours,10,μM,NA,82.39,12.57,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,48,hours,1,μM,NA,100,4.4,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,24,hours,1,μM,NA,93.31,13.62,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,48,hours,0.1,μM,NA,98.96,2.1,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,24,hours,0.1,μM,NA,85.12,6.92,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,48,hours,0.01,μM,NA,98.54,2.31,3,0,100,0.01,3
+Khunluck et al.,2018,Bile Duct,KKU-100,KKU-100,Esculetin,24,hours,0.01,μM,NA,92.63,8.35,3,0,100,0.01,3
+Kim et al,2015,Colorectal,HT-29,HT-29,Esculetin,48,hours,449,μM,NA,32.82,1.18,3,0,100.03,2.18,3
+Kim et al,2015,Colorectal,HT-29,HT-29,Esculetin,48,hours,337,μM,NA,45.07,1.78,3,0,100.03,2.18,3
+Kim et al,2015,Colorectal,HT-29,HT-29,Esculetin,48,hours,309,μM,308.75,50,1,3,0,100.03,2.18,3
+Kim et al,2015,Colorectal,HT-29,HT-29,Esculetin,48,hours,225,μM,NA,61.09,3.95,3,0,100.03,2.18,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,24,hours,80,μM,NA,63.57,5,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,48,hours,80,μM,NA,46.43,5.71,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,24,hours,80,μM,NA,45.56,3.24,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,72,hours,80,μM,NA,33.1,0.95,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,48,hours,80,μM,NA,16.43,2.24,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,72,hours,80,μM,NA,13.69,1.5,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,24,hours,60,μM,NA,75.48,2.62,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,48,hours,60,μM,NA,67.38,5.24,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,24,hours,60,μM,NA,64.73,5.48,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,72,hours,60,μM,NA,52.38,3.33,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,48,hours,60,μM,NA,42.07,5.98,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,72,hours,60,μM,NA,27.88,0.75,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,24,hours,40,μM,NA,94.76,3.81,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,24,hours,40,μM,NA,90.62,1.25,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,48,hours,40,μM,NA,85.24,2.14,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,72,hours,40,μM,NA,84.76,5.24,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,48,hours,40,μM,NA,67.47,3.48,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,72,hours,40,μM,NA,66.22,4.49,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,24,hours,20,μM,NA,100,1.9,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,24,hours,20,μM,NA,98.84,2.24,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,48,hours,20,μM,NA,97.1,3.73,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,48,hours,20,μM,NA,95.24,4.76,3,0,100,1,3
+Kim et al,2018,Colorectal,SW480,SW480,Esculetin,72,hours,20,μM,NA,90.48,2.62,3,0,100,1,3
+Kim et al,2018,Colorectal,HCT116,HCT116,Esculetin,72,hours,20,μM,NA,84.65,5.97,3,0,100,1,3
+Lee et al.,2017,Lung,NCI-H1299,NCI-H1299,Esculetin,24,hours,842,μM,NA,42.86,3.26,3,0,100.82,0.81,3
+Lee et al.,2017,Lung,NCI-H358,NCI-H358,Esculetin,24,hours,842,μM,NA,41.63,4.08,3,0,100,1.22,3
+Lee et al.,2017,Lung,NCI-H358,NCI-H358,Esculetin,48,hours,842,μM,NA,24.9,1.63,3,0,99.59,1.23,3
+Lee et al.,2017,Lung,NCI-H1299,NCI-H1299,Esculetin,48,hours,842,μM,NA,24.08,4.49,3,0,100.82,0.81,3
+Lee et al.,2017,Lung,NCI-H358,NCI-H358,Esculetin,24,hours,561,μM,NA,56.73,3.27,3,0,100,1.22,3
+Lee et al.,2017,Lung,NCI-H1299,NCI-H1299,Esculetin,24,hours,561,μM,NA,49.39,2.85,3,0,100.82,0.81,3
+Lee et al.,2017,Lung,NCI-H1299,NCI-H1299,Esculetin,48,hours,561,μM,NA,38.78,2.44,3,0,100.82,0.81,3
+Lee et al.,2017,Lung,NCI-H358,NCI-H358,Esculetin,48,hours,561,μM,NA,36.73,2.86,3,0,99.59,1.23,3
+Lee et al.,2017,Lung,NCI-H358,NCI-H358,Esculetin,24,hours,281,μM,NA,62.86,2.04,3,0,100,1.22,3
+Lee et al.,2017,Lung,NCI-H1299,NCI-H1299,Esculetin,24,hours,281,μM,NA,61.22,2.05,3,0,100.82,0.81,3
+Lee et al.,2017,Lung,NCI-H1299,NCI-H1299,Esculetin,48,hours,281,μM,NA,57.14,1.64,3,0,100.82,0.81,3
+Lee et al.,2017,Lung,NCI-H358,NCI-H358,Esculetin,48,hours,281,μM,NA,43.27,1.63,3,0,99.59,1.23,3
+Lee et al.,2017,Lung,NCI-H358,NCI-H358,Esculetin,24,hours,140,μM,NA,87.35,1.22,3,0,100,1.22,3
+Lee et al.,2017,Lung,NCI-H1299,NCI-H1299,Esculetin,24,hours,140,μM,NA,77.96,2.45,3,0,100.82,0.81,3
+Lee et al.,2017,Lung,NCI-H1299,NCI-H1299,Esculetin,48,hours,140,μM,NA,69.8,1.63,3,0,100.82,0.81,3
+Lee et al.,2017,Lung,NCI-H358,NCI-H358,Esculetin,48,hours,140,μM,NA,65.71,2.86,3,0,99.59,1.23,3
+Lee et al.,2013,Colorectal,DLD-1,DLD-1,Esculetin,72,hours,80,μM,NA,43.96,3.09,2,0,99.74,0.66,2
+Lee et al.,2013,Colorectal,HCT116,HCT116,Esculetin,72,hours,80,μM,NA,33.02,3.25,2,0,99.76,6.98,2
+Lee et al.,2013,Colorectal,HCT15,HCT15,Esculetin,72,hours,80,μM,NA,30.79,3.53,2,0,100,11.08,2
+Lee et al.,2013,Colorectal,DLD-1,DLD-1,Esculetin,72,hours,60,μM,NA,55.48,2.43,2,0,99.74,0.66,2
+Lee et al.,2013,Colorectal,HCT116,HCT116,Esculetin,72,hours,60,μM,NA,49.53,6.51,2,0,99.76,6.98,2
+Lee et al.,2013,Colorectal,HCT15,HCT15,Esculetin,72,hours,60,μM,NA,48.62,8.94,2,0,100,11.08,2
+Lee et al.,2018,Liver,HepG2,HepG2,Esculetin,24,hours,50,μM,NA,97.72,4.89,3,0,100.07,2.14,3
+Lee et al.,2013,Colorectal,HCT15,HCT15,Esculetin,72,hours,40,μM,NA,72.34,7.06,2,0,100,11.08,2
+Lee et al.,2013,Colorectal,HCT116,HCT116,Esculetin,72,hours,40,μM,NA,67.67,6.98,2,0,99.76,6.98,2
+Lee et al.,2013,Colorectal,DLD-1,DLD-1,Esculetin,72,hours,40,μM,NA,67.22,3.75,2,0,99.74,0.66,2
+Lee et al.,2013,Colorectal,DLD-1,DLD-1,Esculetin,72,hours,20,μM,NA,93.52,1.99,2,0,99.74,0.66,2
+Lee et al.,2013,Colorectal,HCT15,HCT15,Esculetin,72,hours,20,μM,NA,91.12,12.71,2,0,100,11.08,2
+Lee et al.,2013,Colorectal,HCT116,HCT116,Esculetin,72,hours,20,μM,NA,84.88,4.88,2,0,99.76,6.98,2
+Lee et al.,2018,Liver,HepG2,HepG2,Esculetin,24,hours,10,μM,NA,100,3.13,3,0,100.07,2.14,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,1123,μM,NA,69.87,5.76,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,1123,μM,NA,60.25,3.85,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,1123,μM,NA,39.95,3.52,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,1123,μM,NA,69.96,5.42,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,1123,μM,NA,60.22,3.68,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,1123,μM,NA,40.29,4.11,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,842,μM,842.4,50,1,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,842,μM,842.03,50,1,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,562,μM,NA,80.76,5.76,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,562,μM,NA,69.87,4.7,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,562,μM,NA,61.32,4.05,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,561,μM,NA,81.01,5.63,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,561,μM,NA,70.18,4.33,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,561,μM,NA,61.08,4.55,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,281,μM,NA,90.11,4.55,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,281,μM,NA,84.91,3.68,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,281,μM,NA,69.31,6.07,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,281,μM,NA,90.17,4.7,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,281,μM,NA,84.82,3.85,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,281,μM,NA,69.44,5.76,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,140,μM,NA,95.08,4.26,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,140,μM,NA,91.88,3.2,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,140,μM,NA,88.24,2.78,3,0,100,0.01,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,24,hours,140,μM,NA,94.87,4.55,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,48,hours,140,μM,NA,92.06,2.16,3,0,100,1,3
+Li et al.,2017,Cervical,SMMC-7721,SMMC-7721,Esculetin,72,hours,140,μM,NA,88.16,2.81,3,0,100,1,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,24,hours,150,μM,NA,33.15,2.34,3,0,100,3.01,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,48,hours,150,μM,NA,25.11,3.68,3,0,100,3.67,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,24,hours,150,μM,NA,23.5,2.65,3,0,100,4.3,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,72,hours,150,μM,NA,23.08,4.35,3,0,100,3.67,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,48,hours,150,μM,NA,21.52,2.98,3,0,99.66,5.63,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,24,hours,150,μM,NA,17.97,3.89,3,0,100,2.82,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,48,hours,150,μM,NA,16.22,2.12,3,0,100,3.54,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,72,hours,150,μM,NA,12.91,3.31,3,0,100,4.63,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,72,hours,150,μM,NA,10.23,2.47,3,0,100,5.3,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,24,hours,100,μM,NA,48.59,2.67,3,0,100,3.01,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,48,hours,100,μM,NA,43.89,4.02,3,0,100,3.67,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,24,hours,100,μM,NA,41.39,2.31,3,0,100,4.3,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,72,hours,100,μM,NA,40.2,3.68,3,0,100,3.67,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,48,hours,100,μM,NA,36.75,2.65,3,0,99.66,5.63,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,72,hours,100,μM,NA,30.79,3.64,3,0,100,4.63,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,24,hours,100,μM,NA,29.22,2.83,3,0,100,2.82,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,48,hours,100,μM,NA,23.23,2.83,3,0,100,3.54,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,72,hours,100,μM,NA,20.42,3.88,3,0,100,5.3,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,24,hours,50,μM,NA,60.68,1.68,3,0,100,3.01,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,24,hours,50,μM,NA,56.62,1.98,3,0,100,4.3,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,48,hours,50,μM,NA,54.98,4.69,3,0,100,3.67,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,72,hours,50,μM,NA,51.96,4.01,3,0,100,3.67,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,48,hours,50,μM,NA,49.99,4.31,3,0,99.66,5.63,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,24,hours,50,μM,NA,46.12,2.12,3,0,100,2.82,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,72,hours,50,μM,NA,45.03,3.97,3,0,100,4.63,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,48,hours,50,μM,NA,44.02,3.89,3,0,100,3.54,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,72,hours,50,μM,NA,41.21,1.76,3,0,100,5.3,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,24,hours,25,μM,NA,75.79,2.34,3,0,100,3.01,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,24,hours,25,μM,NA,69.2,2.32,3,0,100,4.3,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,48,hours,25,μM,NA,67.08,3.68,3,0,100,3.67,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,48,hours,25,μM,NA,63.57,4.64,3,0,99.66,5.63,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,24,hours,25,μM,NA,60.9,2.83,3,0,100,2.82,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,48,hours,25,μM,NA,58.45,2.12,3,0,100,3.54,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,72,hours,25,μM,NA,58.37,3.34,3,0,100,3.67,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,72,hours,25,μM,NA,58.27,4.31,3,0,100,4.63,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,72,hours,25,μM,NA,55.99,3.89,3,0,100,5.3,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,24,hours,13,μM,NA,87.89,2.34,3,0,100,3.01,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,24,hours,13,μM,NA,85.09,3.98,3,0,100,4.3,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,48,hours,13,μM,NA,83.19,3.68,3,0,100,3.67,3
+Pan et al.,2015,Gastric,BGC-823,BGC-823,Esculetin,72,hours,13,μM,NA,79.16,2.68,3,0,100,3.67,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,48,hours,13,μM,NA,79.13,5.63,3,0,99.66,5.63,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,24,hours,13,μM,NA,77.1,2.83,3,0,100,2.82,3
+Pan et al.,2015,Gastric,SGC-7901,SGC-7901,Esculetin,72,hours,13,μM,NA,75.82,4.31,3,0,100,4.63,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,48,hours,13,μM,NA,71.11,2.83,3,0,100,3.54,3
+Pan et al.,2015,Gastric,MGC-803,MGC-803,Esculetin,72,hours,13,μM,NA,69.71,1.41,3,0,100,5.3,3
+Park et al.,2011,Colorectal,HCT116,HCT116,Esculetin,24,hours,1123,μM,NA,21.75,6.28,3,0,95.07,4.03,3
+Park et al.,2011,Colorectal,HCT116,HCT116,Esculetin,6,hours,561,μM,NA,77.84,4.99,3,0,99.3,5.49,3
+Park et al.,2011,Colorectal,HCT116,HCT116,Esculetin,12,hours,561,μM,NA,58.38,4.49,3,0,99.3,5.49,3
+Park et al.,2011,Colorectal,HCT116,HCT116,Esculetin,24,hours,561,μM,NA,43.5,5.15,3,0,95.07,4.03,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,3,hours,281,μM,NA,73.98,3.5,3,0,100,1,3
+Park et al.,2011,Colorectal,HCT116,HCT116,Esculetin,24,hours,281,μM,NA,60.31,3.14,3,0,95.07,4.03,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,6,hours,281,μM,NA,36.7,2.33,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,12,hours,281,μM,NA,13.98,4.08,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,24,hours,281,μM,NA,5.83,4.66,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,3,hours,225,μM,NA,80.39,2.91,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,6,hours,225,μM,NA,43.69,4.08,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,12,hours,225,μM,NA,18.64,4.08,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,24,hours,225,μM,NA,9.32,4.08,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,3,hours,168,μM,NA,88.54,3.5,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,6,hours,168,μM,NA,57.67,4.08,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,12,hours,168,μM,NA,34.95,4.66,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,24,hours,168,μM,NA,18.64,3.5,3,0,100,1,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,24,hours,157,μM,157.4,50,1,3,0,96.4,6,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,24,hours,150,μM,NA,53.2,4,3,0,96.4,6,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,24,hours,150,μM,NA,52.66,4.11,3,0,95.85,6.63,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,48,hours,150,μM,NA,33.92,3.6,3,0,98.27,5.6,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,48,hours,150,μM,NA,30,3.2,3,0,95.2,4.4,3
+Park et al.,2011,Colorectal,HCT116,HCT116,Esculetin,24,hours,140,μM,NA,79.37,6.95,3,0,95.07,4.03,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,3,hours,112,μM,NA,94.95,3.5,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,6,hours,112,μM,NA,84.47,1,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,12,hours,112,μM,NA,75.73,4.66,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,24,hours,112,μM,NA,3.5,3.49,3,0,100,1,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,24,hours,100,μM,NA,68.4,1.6,3,0,96.4,6,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,24,hours,100,μM,NA,68.04,2.06,3,0,95.85,6.63,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,48,hours,100,μM,NA,40.57,1,3,0,98.27,5.6,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,48,hours,100,μM,NA,36.4,1.2,3,0,95.2,4.4,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,48,hours,79,μM,78.5,50,1,3,0,95.2,4.4,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,3,hours,56,μM,NA,97.86,4.08,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,6,hours,56,μM,NA,96.7,2.91,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,12,hours,56,μM,NA,92.04,2.33,3,0,100,1,3
+Park et al.,2010,Lymphoma,U937,U937,Esculetin,24,hours,56,μM,NA,83.3,3.5,3,0,100,1,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,24,hours,50,μM,NA,88.4,2.8,3,0,96.4,6,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,24,hours,50,μM,NA,88.01,2.97,3,0,95.85,6.63,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,48,hours,50,μM,NA,65.22,3,3,0,98.27,5.6,3
+Park et al.,2022,Salivary Gland,A253,A253,Esculetin,48,hours,50,μM,NA,61.2,2.8,3,0,95.2,4.4,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,19,hours,500,μM,NA,48.04,4.27,3,0,90.04,1.42,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,5,hours,250,μM,NA,90.98,2.63,3,0,92.11,1.5,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,14,hours,250,μM,NA,80.45,4.89,3,0,92.11,1.87,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,19,hours,250,μM,NA,68.42,3.38,3,0,92.11,1.12,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,24,hours,250,μM,NA,65.04,2.63,3,0,90.6,1.88,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,19,hours,250,μM,NA,59.07,8.19,3,0,90.04,1.42,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,5,hours,100,μM,NA,87.59,1.88,3,0,92.11,1.5,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,14,hours,100,μM,NA,86.84,1.88,3,0,92.11,1.87,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,19,hours,100,μM,NA,76.16,3.56,3,0,90.04,1.42,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,19,hours,100,μM,NA,73.31,7.14,3,0,92.11,1.12,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,24,hours,100,μM,NA,66.17,6.01,3,0,90.6,1.88,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,19,hours,50,μM,NA,86.83,1.07,3,0,90.04,1.42,3
+Rubio et al.,2014,Pancreatic,PANC-1,PANC-1,Esculetin,19,hours,20,μM,NA,91.1,0.71,3,0,90.04,1.42,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,24,hours,600,μM,NA,69.83,8.36,3,0,99.93,2.93,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,600,μM,NA,35.54,5.44,3,0,100.35,3.34,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,72,hours,600,μM,NA,19.23,2.93,3,0,99.93,5.02,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,24,hours,300,μM,NA,80.7,5.01,3,0,99.93,2.93,3
+Turkikul et al.,2018,Prostate,DU145,DU145,Esculetin,48,hours,300,μM,NA,53.1,1.67,3,0,99.93,2.09,3
+Turkikul et al.,2018,Prostate,LNCaP,LNCaP,Esculetin,48,hours,300,μM,NA,53.1,1.26,3,0,100.35,2.09,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,300,μM,NA,38.89,3.76,3,0,100.35,3.34,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,300,μM,NA,38.47,4.6,3,0,99.93,3.76,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,72,hours,300,μM,NA,25.92,3.77,3,0,99.93,5.02,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,24,hours,150,μM,NA,82.37,6.27,3,0,99.93,2.93,3
+Turkikul et al.,2018,Prostate,DU145,DU145,Esculetin,48,hours,150,μM,NA,62.3,1.67,3,0,99.93,2.09,3
+Turkikul et al.,2018,Prostate,LNCaP,LNCaP,Esculetin,48,hours,150,μM,NA,54.77,1.26,3,0,100.35,2.09,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,150,μM,NA,53.1,5.85,3,0,100.35,3.34,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,150,μM,NA,52.68,6.69,3,0,99.93,3.76,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,72,hours,150,μM,NA,28.85,2.93,3,0,99.93,5.02,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,24,hours,75,μM,NA,85.3,4.6,3,0,99.93,2.93,3
+Turkikul et al.,2018,Prostate,DU145,DU145,Esculetin,48,hours,75,μM,NA,69.83,1.67,3,0,99.93,2.09,3
+Turkikul et al.,2018,Prostate,LNCaP,LNCaP,Esculetin,48,hours,75,μM,NA,61.46,1.26,3,0,100.35,2.09,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,75,μM,NA,56.86,5.86,3,0,100.35,3.34,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,75,μM,NA,56.86,6.28,3,0,99.93,3.76,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,72,hours,75,μM,NA,35.96,4.18,3,0,99.93,5.02,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,24,hours,38,μM,NA,88.64,5.85,3,0,99.93,2.93,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,38,μM,NA,70.66,5.86,3,0,100.35,3.34,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,72,hours,38,μM,NA,48.08,6.69,3,0,99.93,5.02,3
+Turkikul et al.,2018,Prostate,DU145,DU145,Esculetin,48,hours,25,μM,NA,93.66,1.25,3,0,99.93,2.09,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,25,μM,NA,83.21,5.85,3,0,99.93,3.76,3
+Turkikul et al.,2018,Prostate,LNCaP,LNCaP,Esculetin,48,hours,25,μM,NA,82.79,1.25,3,0,100.35,2.09,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,24,hours,19,μM,NA,89.06,7.11,3,0,99.93,2.93,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,19,μM,NA,81.11,10.04,3,0,100.35,3.34,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,72,hours,19,μM,NA,68.15,7.95,3,0,99.93,5.02,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,24,hours,9,μM,NA,91.15,4.18,3,0,99.93,2.93,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,72,hours,9,μM,NA,91.15,2.93,3,0,99.93,5.02,3
+Turkikul et al.,2018,Prostate,PC-3,PC-3,Esculetin,48,hours,9,μM,NA,90.31,5.44,3,0,100.35,3.34,3
+Wang et al.,2017,Gastric,HGC-27,HGC-27,Esculetin,72,hours,850,μM,NA,62.34,5.49,3,0,99.51,2.08,3
+Wang et al.,2017,Gastric,HGC-27,HGC-27,Esculetin,48,hours,850,μM,NA,57.89,6.01,3,0,97.14,1.57,3
+Wang et al.,2017,Gastric,HGC-27,HGC-27,Esculetin,24,hours,850,μM,NA,57.62,6.27,3,0,97.92,1.3,3
+Wang et al.,2017,Gastric,BGC-823,BGC-823,Esculetin,24,hours,850,μM,NA,52.95,7.2,3,0,98.71,1.29,3
+Wang et al.,2017,Gastric,MGC-803,MGC-803,Esculetin,24,hours,850,μM,NA,51.72,5.66,3,0,98.52,1.97,3
+Wang et al.,2017,Gastric,BGC-823,BGC-823,Esculetin,48,hours,850,μM,NA,50.12,5.92,3,0,98.97,2.05,3
+Wang et al.,2017,Gastric,BGC-823,BGC-823,Esculetin,72,hours,850,μM,NA,48.32,5.16,3,0,98.45,1.55,3
+Wang et al.,2017,Gastric,MGC-803,MGC-803,Esculetin,48,hours,850,μM,NA,46.79,6.9,3,0,99.75,1.97,3
+Wang et al.,2017,Gastric,MGC-803,MGC-803,Esculetin,72,hours,850,μM,NA,46.3,4.43,3,0,100,1.72,3
+Wang et al.,2017,Gastric,HGC-27,HGC-27,Esculetin,24,hours,560,μM,NA,78.47,7.57,3,0,97.92,1.3,3
+Wang et al.,2017,Gastric,HGC-27,HGC-27,Esculetin,48,hours,560,μM,NA,75.6,7.03,3,0,97.14,1.57,3
+Wang et al.,2017,Gastric,BGC-823,BGC-823,Esculetin,24,hours,560,μM,NA,72.49,6.68,3,0,98.71,1.29,3
+Wang et al.,2017,Gastric,MGC-803,MGC-803,Esculetin,24,hours,560,μM,NA,69.95,5.66,3,0,98.52,1.97,3
+Wang et al.,2017,Gastric,BGC-823,BGC-823,Esculetin,48,hours,560,μM,NA,68.38,5.39,3,0,98.97,2.05,3
+Wang et al.,2017,Gastric,MGC-803,MGC-803,Esculetin,48,hours,560,μM,NA,66,12.9,3,0,99.75,1.97,3
+Wang et al.,2017,Gastric,BGC-823,BGC-823,Esculetin,72,hours,560,μM,NA,65.08,4.89,3,0,98.45,1.55,3
+Wang et al.,2017,Gastric,MGC-803,MGC-803,Esculetin,72,hours,560,μM,NA,62.31,3.94,3,0,100,1.72,3
+Wang et al.,2017,Gastric,HGC-27,HGC-27,Esculetin,72,hours,560,μM,NA,60.56,5.29,3,0,99.51,2.08,3
+Wang et al.,2017,Gastric,HGC-27,HGC-27,Esculetin,24,hours,140,μM,NA,91.95,5.49,3,0,97.92,1.3,3
+Wang et al.,2017,Gastric,MGC-803,MGC-803,Esculetin,24,hours,140,μM,NA,91.13,3.67,3,0,98.52,1.97,3
+Wang et al.,2017,Gastric,BGC-823,BGC-823,Esculetin,24,hours,140,μM,NA,89.97,4.11,3,0,98.71,1.29,3
+Wang et al.,2017,Gastric,HGC-27,HGC-27,Esculetin,48,hours,140,μM,NA,89.88,4.7,3,0,97.14,1.57,3
+Wang et al.,2017,Gastric,BGC-823,BGC-823,Esculetin,48,hours,140,μM,NA,89.46,3.59,3,0,98.97,2.05,3
+Wang et al.,2017,Gastric,HGC-27,HGC-27,Esculetin,72,hours,140,μM,NA,89.1,4.44,3,0,99.51,2.08,3
+Wang et al.,2017,Gastric,MGC-803,MGC-803,Esculetin,48,hours,140,μM,NA,88.42,5.17,3,0,99.75,1.97,3
+Wang et al.,2017,Gastric,BGC-823,BGC-823,Esculetin,72,hours,140,μM,NA,87.66,4.11,3,0,98.45,1.55,3
+Wang et al.,2017,Gastric,MGC-803,MGC-803,Esculetin,72,hours,140,μM,NA,87.43,3.21,3,0,100,1.72,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,SK-MEL28,Esculetin,72,hours,200,μM,NA,39.89,16.84,3,0,100,8.4,3
+Wroblewska-Luczka et al.,2023,Skin,A375,A375,Esculetin,72,hours,200,μM,NA,27.27,6.67,3,0,100,16.21,3
+Wroblewska-Luczka et al.,2023,Skin,FM55P,FM55P,Esculetin,72,hours,200,μM,NA,21.95,6.1,3,0,99.72,6.11,3
+Wroblewska-Luczka et al.,2023,Skin,FM55M2,FM55M2,Esculetin,72,hours,200,μM,NA,13.97,3.33,3,0,100,16.59,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,SK-MEL28,Esculetin,72,hours,150,μM,NA,43.47,11.97,3,0,100,8.4,3
+Wroblewska-Luczka et al.,2023,Skin,A375,A375,Esculetin,72,hours,150,μM,NA,25.89,8.59,3,0,100,16.21,3
+Wroblewska-Luczka et al.,2023,Skin,FM55P,FM55P,Esculetin,72,hours,150,μM,NA,21.4,4.69,3,0,99.72,6.11,3
+Wroblewska-Luczka et al.,2023,Skin,FM55M2,FM55M2,Esculetin,72,hours,150,μM,NA,15.61,3.33,3,0,100,16.59,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,SK-MEL28,Esculetin,72,hours,121,μM,120.64,50,1,3,0,100,0.01,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,SK-MEL28,Esculetin,72,hours,100,μM,NA,53.45,9.79,3,0,100,8.4,3
+Wroblewska-Luczka et al.,2023,Skin,A375,A375,Esculetin,72,hours,100,μM,NA,29.75,7.15,3,0,100,16.21,3
+Wroblewska-Luczka et al.,2023,Skin,FM55P,FM55P,Esculetin,72,hours,100,μM,NA,21.4,5.18,3,0,99.72,6.11,3
+Wroblewska-Luczka et al.,2023,Skin,FM55M2,FM55M2,Esculetin,72,hours,100,μM,NA,19.17,5.23,3,0,100,16.59,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,A375,Esculetin,72,hours,75,μM,75.38,50,1,3,0,100,0.01,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,SK-MEL28,Esculetin,72,hours,60,μM,NA,66.24,16.82,3,0,100,8.4,3
+Wroblewska-Luczka et al.,2023,Skin,A375,A375,Esculetin,72,hours,60,μM,NA,57.57,13.84,3,0,100,16.21,3
+Wroblewska-Luczka et al.,2023,Skin,FM55P,FM55P,Esculetin,72,hours,60,μM,NA,28.45,5.16,3,0,99.72,6.11,3
+Wroblewska-Luczka et al.,2023,Skin,FM55M2,FM55M2,Esculetin,72,hours,60,μM,NA,18.63,5.21,3,0,100,16.59,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,SK-MEL28,Esculetin,72,hours,50,μM,NA,66.24,13.72,3,0,100,8.4,3
+Wroblewska-Luczka et al.,2023,Skin,A375,A375,Esculetin,72,hours,50,μM,NA,62.53,1.54,3,0,100,16.21,3
+Wroblewska-Luczka et al.,2023,Skin,FM55P,FM55P,Esculetin,72,hours,50,μM,NA,31.43,6.1,3,0,99.72,6.11,3
+Wroblewska-Luczka et al.,2023,Skin,FM55M2,FM55M2,Esculetin,72,hours,50,μM,NA,18.9,5.72,3,0,100,16.59,3
+Wroblewska-Luczka et al.,2023,Skin,A375,A375,Esculetin,72,hours,40,μM,NA,71.62,8.11,3,0,100,16.21,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,SK-MEL28,Esculetin,72,hours,40,μM,NA,68.03,15.93,3,0,100,8.4,3
+Wroblewska-Luczka et al.,2023,Skin,FM55P,FM55P,Esculetin,72,hours,40,μM,NA,34.39,4.69,3,0,99.72,6.11,3
+Wroblewska-Luczka et al.,2023,Skin,FM55M2,FM55M2,Esculetin,72,hours,40,μM,NA,22.73,7.12,3,0,100,16.59,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,FM55P,Esculetin,72,hours,27,μM,26.62,50,1,3,0,100,0.01,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,SK-MEL28,Esculetin,72,hours,20,μM,NA,81.84,7.52,3,0,100,8.4,3
+Wroblewska-Luczka et al.,2023,Skin,A375,A375,Esculetin,72,hours,20,μM,NA,80.16,16.23,3,0,100,16.21,3
+Wroblewska-Luczka et al.,2023,Skin,FM55P,FM55P,Esculetin,72,hours,20,μM,NA,57.72,9.39,3,0,99.72,6.11,3
+Wroblewska-Luczka et al.,2023,Skin,FM55M2,FM55M2,Esculetin,72,hours,20,μM,NA,46.84,6.18,3,0,100,16.59,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,FM55-M2,Esculetin,72,hours,18,μM,18.2,50,1,3,0,100,0.01,3
+Wroblewska-Luczka et al.,2023,Skin,A375,A375,Esculetin,72,hours,10,μM,NA,94.49,14.79,3,0,100,16.21,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,SK-MEL28,Esculetin,72,hours,10,μM,NA,94.37,12.85,3,0,100,8.4,3
+Wroblewska-Luczka et al.,2023,Skin,FM55P,FM55P,Esculetin,72,hours,10,μM,NA,78.04,8.45,3,0,99.72,6.11,3
+Wroblewska-Luczka et al.,2023,Skin,FM55M2,FM55M2,Esculetin,72,hours,10,μM,NA,70.41,7.12,3,0,100,16.59,3
+Wroblewska-Luczka et al.,2023,Skin,A375,A375,Esculetin,72,hours,2,μM,NA,100,1.75,3,0,100,16.21,3
+Wroblewska-Luczka et al.,2023,Skin,SK-MEL28,SK-MEL28,Esculetin,72,hours,2,μM,NA,96.16,10.63,3,0,100,8.4,3
+Wroblewska-Luczka et al.,2023,Skin,FM55P,FM55P,Esculetin,72,hours,2,μM,NA,92.68,8.92,3,0,99.72,6.11,3
+Wroblewska-Luczka et al.,2023,Skin,FM55M2,FM55M2,Esculetin,72,hours,2,μM,NA,89.58,10.44,3,0,100,16.59,3
