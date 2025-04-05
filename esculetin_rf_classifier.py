@@ -16,14 +16,14 @@ df = pd.read_csv(file_path)
 
 # Encode categorical variable
 label_encoder = LabelEncoder()
-df['CancerType'] = label_encoder.fit_transform(df['CancerType'])
+df['Cancer Type'] = label_encoder.fit_transform(df['Cancer Type'])
 
 # Binarize the Viability column
 threshold = df['Viability'].median()
 df['Viability'] = (df['Viability'] > threshold).astype(int)
 
 # Feature/target split
-X = df[['Time', 'DoseCoumarin', 'CancerType']].astype(float).dropna()
+X = df[['Time', 'DoseCoumarin', 'Cancer Type']].astype(float).dropna()
 y = df['Viability'].loc[X.index]
 
 # Train-test split
