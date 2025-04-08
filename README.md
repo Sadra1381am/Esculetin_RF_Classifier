@@ -18,14 +18,16 @@ This repository contains code and results for training a Random Forest classifie
 2. Install the required dependencies by running the following command:
 ```bash
 pip install -r code/requirements.txt
-
+```
 3. Run the training and evaluation script:
 ```bash
 python esculetin_rf_classifier.py
+```
 
 4. After training, you can use the predict.py script to make predictions:
 ```bash
 python predict.py
+```
 
 
 The script will prompt you to input:
