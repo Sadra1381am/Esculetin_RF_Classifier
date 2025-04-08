@@ -9,7 +9,7 @@ This repository contains code and results for training a Random Forest classifie
 - ‍‍‍‍‍‍‍`predict.py`: Script for predicting the viability of cancer cells based on user input for Cancer Type, Time, and Dose Coumarin.
 - `code/requirements.txt`: Dependencies for setting up the environment.
 - `data/Esculetin.csv`: The Esculetin Dataset containing cancer type, time, dose, and viability information.
-- `output/`: Directory containing saved PNG and TIFF figures (classification report heatmap, feature importance plots) and the trained model file esculetin_rf_model.pkl.
+- `output/`: Directory containing saved PNG figures (classification report heatmap, feature importance plots) and the trained model file esculetin_rf_model.pkl.
 
 ## Setup
 
