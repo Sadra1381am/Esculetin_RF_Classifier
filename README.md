@@ -37,4 +37,5 @@ The script will prompt you to input:
 
 Based on your input, the script will return the predicted viability for the selected conditions, formatted as:
 
-For Liver cancer type at 24 h and 50 μM, the predicted viability is: Viable.
+For Gastric cancer type at 72.0 h and 150.0 μM,
+Predicted viability: 16.8%
